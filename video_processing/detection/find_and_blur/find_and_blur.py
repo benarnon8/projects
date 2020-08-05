@@ -102,7 +102,7 @@ if __name__ == '__main__':
 
         timer += 1
 
-        # TODO: SAVE TO LIST TO IGNORE RAM AND CACHE ISSUESQ AND THEN PLAY IN ORIGINAL FRAME RATE
+        # TODO: SAVE TO LIST TO IGNORE RAM AND CACHE ISSUES AND THEN PLAY IN ORIGINAL FRAME RATE
         if cv2.waitKey(25) & 0xFF == ord('q'):  # int(1000 / fps)
             break
 
