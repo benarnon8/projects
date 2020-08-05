@@ -1,3 +1,3 @@
-Video and Audio detection project for action classification. Made to support research for studying the sleeping habits of fruit bats.
+Video and Audio processing for action-detection to help research the sleeping habits of fruit bats.
 
 (c) Ben Arnon 2017
